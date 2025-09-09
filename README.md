@@ -7,7 +7,7 @@ I am a proud freshman at **FAST Nuces University**, Batch Fall-25. I’m excited
  1. Machine Learning
  2. Game Development 
  3. Artificial Intelligence
- ## Hobbies Rlevent To My Degree
+ ## Hobbies Relevent To My Degree
  - Reading
  - Solving Maths Problems
  - Brainstorming
